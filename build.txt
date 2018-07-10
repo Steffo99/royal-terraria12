@@ -1,0 +1,6 @@
+displayName = The Tarot Master
+author = Steffo
+version = 0.1.1.1
+homepage = https://ryg.steffo.eu
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
