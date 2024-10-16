@@ -1,5 +1,7 @@
 <div align="center">
 
+![](.media/icon-128x128_round.png)
+
 # RYG Terraria 12
 
 Terraria balance mod with changes voted on by RYG Terraria 12 players
