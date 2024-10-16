@@ -1,8 +1,14 @@
-# royal-terraria12
+<div align="center">
 
-A Terraria mod used to balance some items for the Royal Games **Terraria 12** event.
+# RYG Terraria 12
 
-The mod is called **Summer2018** in-game.
+Terraria balance mod with changes voted on by RYG Terraria 12 players
+
+</div>
+
+> [!Note]
+> 
+> The mod is called **Summer2018** in-game.
 
 ## Changes
 
